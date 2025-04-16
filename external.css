@@ -175,6 +175,20 @@ padding: 40px;
     font-size: 25px;
 
 }
+.attribution{
+    background-color:  #00252e;
+    margin: 0;
+    text-align: center;
+    color: #fff;
+}
+.attribution a{
+    text-decoration: none;
+    color: #ff52bf;
+    cursor: pointer;
+}
+.attribution a:hover{
+    color: #ff8fd8
+}
 @media screen and (max-width:480px) {
     .header{
         padding: 20px;
