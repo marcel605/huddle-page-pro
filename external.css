@@ -239,4 +239,7 @@ padding: 40px;
         width: 120px;
         height: 40px;
     }
+    .attribution{
+        font-size: 11.3px;
+    }
 }
